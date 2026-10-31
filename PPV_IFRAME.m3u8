@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://taifood-blog.asia/embed/nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/86a39ab4ee4b472b06c3cd26bf55f829-thumbnail.jpg" group-title="American Football",Notre Dame Fighting Irish at Navy Midshipmen
-https://taifood-blog.asia/embed/cfb/2026-10-31/nd-navy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3c3d617a9a6aed5dd3e42acea607219e-thumbnail.jpg" group-title="American Football",Arizona Wildcats at Texas Tech Red Raiders
-https://taifood-blog.asia/embed/cfb/2026-10-31/ariz-ttu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9e2911d3a48d95abac9f726498543f64-thumbnail.jpg" group-title="American Football",SMU Mustangs at Syracuse Orange
-https://taifood-blog.asia/embed/cfb/2026-10-31/smu-syr
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/65e8c0b908c6c6bf495f67370dfa5ae8-thumbnail.jpg" group-title="American Football",Wisconsin Badgers at Iowa Hawkeyes
-https://taifood-blog.asia/embed/cfb/2026-10-31/wis-iowa
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b216461994cb394aac5c883625a07fa2-thumbnail.jpg" group-title="American Football",Auburn Tigers at Ole Miss Rebels
-https://taifood-blog.asia/embed/cfb/2026-10-31/aub-miss
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2244962106b63d36aab3349f8f36bc61-thumbnail.jpg" group-title="American Football",Winnipeg Blue Bombers at Toronto Argonauts
-https://taifood-blog.asia/embed/cfl/2026-10-31/wpg-tor
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/724dac2ebb2fdade4e2c3c08fa34215d-thumbnail.jpg" group-title="American Football",Florida Gators at Georgia Bulldogs
 https://taifood-blog.asia/embed/cfb/2026-10-31/fla-uga
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5f868ddb2996e11c59887ba24e00e768-thumbnail.jpg" group-title="American Football",Minnesota Golden Gophers at Indiana Hoosiers
@@ -107,26 +95,6 @@ https://taifood-blog.asia/embed/ufc-fight-night-moicano-vs-nolan-31456
 https://taifood-blog.asia/embed/247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",Fox Cricket
 https://taifood-blog.asia/embed/247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6bbac74f503697d97f391c5f6f1370ab-thumbnail.jpg" group-title="Football",Udinese vs. AS Roma
-https://taifood-blog.asia/embed/seriea/2026-10-31/udi-roma
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8616488ff4a78fee9f38ea3646b2ba34-thumbnail.jpg" group-title="Football",Charlotte FC vs. Orlando City SC
-https://taifood-blog.asia/embed/mls/2026-10-31/clt-orl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f130da2b882ec7a8653fe5d8b7fcecb7-thumbnail.jpg" group-title="Football",Real Betis vs. Málaga
-https://taifood-blog.asia/embed/laliga/2026-10-31/bet-mcf
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9f8582d03af7d65987d2a6cf45565eb8-thumbnail.jpg" group-title="Football",Bayern Munich vs. Borussia Dortmund
-https://taifood-blog.asia/embed/bundesliga/2026-10-31/bay-dor
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2712eaceb9b09dc780d0ce53404bf2a2-thumbnail.jpg" group-title="Football",Tottenham Hotspur vs. Crystal Palace
-https://taifood-blog.asia/embed/pl/2026-10-31/tot-cry
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dd8fbab68790685d867e9798ae66373e-thumbnail.jpg" group-title="Football",Heerenveen vs. NEC Nijmegen
-https://taifood-blog.asia/embed/eredivisie/2026-10-31/hee-nec
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e5e5e4b1e9190fed266f45b67da1ab04-thumbnail.jpg" group-title="Football",PSV Eindhoven vs. Willem II
-https://taifood-blog.asia/embed/eredivisie/2026-10-31/psv-wil
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5360cfc0549e384747c27422c1704181-thumbnail.jpg" group-title="Football",Columbus Crew vs. D.C. United
-https://taifood-blog.asia/embed/mls/2026-10-31/clb-dc
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/896d2f02fd9608608a954e9465a82fd2-thumbnail.jpg" group-title="Football",FC Cincinnati vs. Philadelphia Union
-https://taifood-blog.asia/embed/mls/2026-10-31/cin-phi
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c5e0bbaa0926f4ece719120611b322d9-thumbnail.jpg" group-title="Football",New York City FC vs. CF Montréal
-https://taifood-blog.asia/embed/mls/2026-10-31/nyc-mtl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8acf6e9f958a541210010165b2137ff6-thumbnail.jpg" group-title="Football",Sporting Kansas City vs. FC Dallas
 https://taifood-blog.asia/embed/mls/2026-10-31/skc-dal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1ca2d65f3fe466e26f5fe66d4d0524e4-thumbnail.jpg" group-title="Football",St. Louis CITY SC vs. San Diego FC
@@ -241,14 +209,6 @@ https://taifood-blog.asia/embed/pl/2026-11-02/new-eve
 https://taifood-blog.asia/embed/sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://taifood-blog.asia/embed/nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/61038cef7bef937c951a51878d02d601-thumbnail.jpg" group-title="Ice Hockey",Chicago Blackhawks vs. Boston Bruins
-https://taifood-blog.asia/embed/nhl/2026-10-31/chi-bos
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f0bff830bf294c571dde99f4e0ab4a57-thumbnail.jpg" group-title="Ice Hockey",St. Louis Blues vs. Detroit Red Wings
-https://taifood-blog.asia/embed/nhl/2026-10-31/stl-det
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/340c76b96709ca63081d1564bea8efcd-thumbnail.jpg" group-title="Ice Hockey",Tampa Bay Lightning vs. Nashville Predators
-https://taifood-blog.asia/embed/nhl/2026-10-31/tb-nsh
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7e80671dfe59c1bd1645d354c335ddd0-thumbnail.jpg" group-title="Ice Hockey",Edmonton Oilers vs. New York Islanders
-https://taifood-blog.asia/embed/nhl/2026-10-31/edm-nyi
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b9db3cb5e1098db9f5742bb38822a2cf-thumbnail.jpg" group-title="Ice Hockey",Buffalo Sabres vs. Los Angeles Kings
 https://taifood-blog.asia/embed/nhl/2026-10-31/buf-la
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7dad99620d9776eb43dec3730991c101-thumbnail.jpg" group-title="Ice Hockey",Ottawa Senators vs. San Jose Sharks
@@ -261,8 +221,6 @@ https://taifood-blog.asia/embed/nhl/2026-10-31/tor-van
 https://taifood-blog.asia/embed/nhl/2026-10-31/cbj-dal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d3ee16fc3e9e69ae0048827fdbcc06f8-thumbnail.jpg" group-title="Ice Hockey",Calgary Flames vs. Colorado Avalanche
 https://taifood-blog.asia/embed/nhl/2026-10-31/cgy-col
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/16bcb7e02b7d5cc5153a69d5dcd4ae40-thumbnail.jpg" group-title="Motorsports",Mexico City Grand Prix - Practice 3
-https://taifood-blog.asia/embed/f1/2026/mexico/fp3
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b84bb2118f8972be6e4f824e63d8a9cb-thumbnail.jpg" group-title="Motorsports",Mexico City Grand Prix - Qualifying
 https://taifood-blog.asia/embed/f1/2026/mexico/qualifying
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/83446bab8578d4240aa6d679b39f3ffd-thumbnail.jpg" group-title="Motorsports",Mexico City Grand Prix - Race

@@ -1,9 +1,8 @@
-
 name: PPV IFRAME M3U Update
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '17 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -12,6 +11,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
       - name: Checkout Repository
@@ -26,6 +26,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests
+
+      - name: Check Start Time
+        run: date -u
 
       - name: Generate M3U
         run: python main.py

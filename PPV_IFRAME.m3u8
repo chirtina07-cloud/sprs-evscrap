@@ -69,10 +69,6 @@ https://taifood-blog.asia/embed/nfl/2026-11-22/min-sf
 https://taifood-blog.asia/embed/nfl/2026-11-23/cin-wsh
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",Fox Footy
 https://taifood-blog.asia/embed/247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/076176202ebe7d94ce25e0e68ddf3649-thumbnail.jpg" group-title="Basketball",Tasmania JackJumpers vs. Illawarra Hawks
-https://taifood-blog.asia/embed/nbl/2026-11-21/tas-hwk
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c91ed693652c01cb6f76b8875f775e02-thumbnail.jpg" group-title="Basketball",Melbourne United vs. New Zealand Breakers
-https://taifood-blog.asia/embed/nbl/2026-11-21/mel-nzl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a214dcacf161ffbc677d909e905d44af-thumbnail.jpg" group-title="Basketball",Detroit Mercy Titans at Michigan State Spartans
 https://taifood-blog.asia/embed/cbb/2026-11-21/detm-msu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cba419aba970197aa46d22675db14bd7-thumbnail.jpg" group-title="Basketball",Milwaukee Bucks vs. Philadelphia 76ers
@@ -113,6 +109,8 @@ https://taifood-blog.asia/embed/nba/2026-11-22/dal-utah
 https://taifood-blog.asia/embed/nba/2026-11-22/ind-ny
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e7a99ae793cc3ff1510e270626deaf3e-thumbnail.jpg" group-title="Basketball",Boston Celtics vs. Golden State Warriors
 https://taifood-blog.asia/embed/nba/2026-11-22/bos-gs
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/847c6a9814ff9f823f8e267bd33355ef-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Prochazka vs. Stirling
+https://taifood-blog.asia/embed/ufc-fight-night-prochazka-vs-stirling-32647
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",Willow
 https://taifood-blog.asia/embed/247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",Fox Cricket
@@ -123,18 +121,6 @@ https://taifood-blog.asia/embed/grand-slam-of-darts--day-8-32258
 https://taifood-blog.asia/embed/grand-slam-of-darts--day-9-session-1-32259
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg" group-title="Darts",Grand Slam of Darts | Day 9, Session 2
 https://taifood-blog.asia/embed/grand-slam-of-darts--day-9-session-2-32260
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aba3473a6843b02ae8650fb5c79639d1-thumbnail.jpg" group-title="Football",Manchester City vs. Fulham
-https://taifood-blog.asia/embed/pl/2026-11-21/mci-ful
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/268a369e4713e9afd343aec1003fa3a7-thumbnail.jpg" group-title="Football",Alavés vs. Deportivo
-https://taifood-blog.asia/embed/laliga/2026-11-21/ala-dep
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7b174ff4b56c3a0837b2020363765b97-thumbnail.jpg" group-title="Football",Como vs. Cagliari
-https://taifood-blog.asia/embed/seriea/2026-11-21/como-cag
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bcb12ab48d2e394030867801ddf7d3b5-thumbnail.jpg" group-title="Football",Lazio vs. Lecce
-https://taifood-blog.asia/embed/seriea/2026-11-21/laz-lec
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c578239d743e14b9b7bfdd92bef9f015-thumbnail.jpg" group-title="Football",AIK vs. Degerfors IF
-https://taifood-blog.asia/embed/allsvenskan/2026-11-21/aik-deg
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d4b3a0a781e04f6cf9ac5a18bba3fbbb-thumbnail.jpg" group-title="Football",Mjällby AIF vs. Malmö FF
-https://taifood-blog.asia/embed/allsvenskan/2026-11-21/mja-mal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/86c01c9cbd06e1a26262b0f8996a26d5-thumbnail.jpg" group-title="Football",1. FC Union Berlin vs. RB Leipzig
 https://taifood-blog.asia/embed/bundesliga/2026-11-21/fcu-rbl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3737905533f129cbd6e4b53ae640024f-thumbnail.jpg" group-title="Football",Bayer Leverkusen vs. SC Paderborn 07
@@ -155,6 +141,16 @@ https://taifood-blog.asia/embed/pl/2026-11-21/che-lee
 https://taifood-blog.asia/embed/pl/2026-11-21/cov-cry
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/172c174dd26f89927068dfa9f4862485-thumbnail.jpg" group-title="Football",Tottenham Hotspur vs. Ipswich Town
 https://taifood-blog.asia/embed/pl/2026-11-21/tot-ips
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ef887999a46ba73030dbb133ca8a558d-thumbnail.jpg" group-title="Football",Lincoln City vs. Wrexham
+https://taifood-blog.asia/embed/efl-championship/2026-11-21/lcn-wxm
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1946e96effe6764063e2fae85aba40a9-thumbnail.jpg" group-title="Football",Middlesbrough vs. Bristol City
+https://taifood-blog.asia/embed/efl-championship/2026-11-21/mid-brc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e52ea312c418ec780ec41afd212473f5-thumbnail.jpg" group-title="Football",West Ham United vs. Preston North End
+https://taifood-blog.asia/embed/efl-championship/2026-11-21/whu-pne
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ce647e4b2f610af5a4e086be0ecc51ce-thumbnail.jpg" group-title="Football",Wolverhampton Wanderers vs. Charlton Athletic
+https://taifood-blog.asia/embed/efl-championship/2026-11-21/wol-cha
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f3e1ca0f440fffeb76162a711d6594dc-thumbnail.jpg" group-title="Football",Swansea City vs. West Bromwich Albion
+https://taifood-blog.asia/embed/efl-championship/2026-11-21/swa-wba
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7a9096262d17133aa073b5ea80d1c3c5-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. Valencia
 https://taifood-blog.asia/embed/laliga/2026-11-21/ray-val
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2d57901941378c054922ada852642f62-thumbnail.jpg" group-title="Football",NEC Nijmegen vs. PSV Eindhoven

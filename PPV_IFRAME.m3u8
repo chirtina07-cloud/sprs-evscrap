@@ -79,10 +79,6 @@ https://taifood-blog.asia/embed/nfl/2026-11-29/lv-cle
 https://taifood-blog.asia/embed/nfl/2026-11-30/car-tb
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",Fox Footy
 https://taifood-blog.asia/embed/247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5f9632e771be2c269ed2300e1db03312-thumbnail.jpg" group-title="Basketball",Sacramento Kings vs. Golden State Warriors
-https://taifood-blog.asia/embed/nba/2026-11-25/sac-gs
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/63385e60e324f208715898168944a85f-thumbnail.jpg" group-title="Basketball",San Antonio Spurs vs. Portland Trail Blazers
-https://taifood-blog.asia/embed/nba/2026-11-25/sa-por
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2a6056783ca30f11029dfbb06eef7790-thumbnail.jpg" group-title="Basketball",Georgetown Hoyas at Texas Longhorns
 https://taifood-blog.asia/embed/cbb/2026-11-26/gtwn-tex
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d87b18127ebd33f747f82d362e6d0213-thumbnail.jpg" group-title="Basketball",Tennessee Volunteers at Iowa State Cyclones
@@ -217,6 +213,8 @@ https://taifood-blog.asia/embed/uecl/2026-11-26/gent-rsb
 https://taifood-blog.asia/embed/uecl/2026-11-26/scf-twe
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/173f7b7327c58243669307ab03190d36-thumbnail.jpg" group-title="Football",FC Groningen vs. Willem II
 https://taifood-blog.asia/embed/eredivisie/2026-11-27/gro-wil
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/366d387045664c189cb67ce562dfe634-thumbnail.jpg" group-title="Football",FC Dordrecht vs. Vitesse
+https://taifood-blog.asia/embed/keuken-kampioen-divisie/2026-11-27/dor-vit
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5baae9270e3796c90e0f455f651357c0-thumbnail.jpg" group-title="Football",Werder Bremen vs. Borussia Mönchengladbach
 https://taifood-blog.asia/embed/bundesliga/2026-11-27/svw-bmg
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a71f7b095e9d509c0a7b264c6198a2ce-thumbnail.jpg" group-title="Football",Venezia vs. Bologna
@@ -349,12 +347,16 @@ https://taifood-blog.asia/embed/seriea/2026-11-30/cag-mil
 https://taifood-blog.asia/embed/laliga/2026-11-30/esp-get
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://taifood-blog.asia/embed/nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f40016d76b70336ac142dc8c06f96497-thumbnail.jpg" group-title="Ice Hockey",Montreal Canadiens vs. Colorado Avalanche
-https://taifood-blog.asia/embed/nhl/2026-11-25/mtl-col
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/51754374bd2db4fe0b9618baf486985d-thumbnail.jpg" group-title="Ice Hockey",Chicago Blackhawks vs. Seattle Kraken
-https://taifood-blog.asia/embed/nhl/2026-11-25/chi-sea
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ee5da4c1d35f8371f3738e1064831ebb-thumbnail.jpg" group-title="Ice Hockey",San Jose Sharks vs. Anaheim Ducks
-https://taifood-blog.asia/embed/nhl/2026-11-25/sj-ana
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/738c267cb254c84b00f6c62b045f6b47-thumbnail.jpg" group-title="Motorsports",Qatar Grand Prix - Practice 1
+https://taifood-blog.asia/embed/f1/2026/qatar/fp1
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e617e3c371c9e873cbd6ee0db193b3ed-thumbnail.jpg" group-title="Motorsports",Qatar Grand Prix - Practice 2
+https://taifood-blog.asia/embed/f1/2026/qatar/fp2
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0087ef7a8d6791f399ba9331b5bc407a-thumbnail.jpg" group-title="Motorsports",Qatar Grand Prix - Practice 3
+https://taifood-blog.asia/embed/f1/2026/qatar/fp3
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a4966426c08bd8f2cec00a2993758683-thumbnail.jpg" group-title="Motorsports",Qatar Grand Prix - Qualifying
+https://taifood-blog.asia/embed/f1/2026/qatar/qualifying
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1c101a2bf68991031fd1361be6bb57cb-thumbnail.jpg" group-title="Motorsports",Qatar Grand Prix - Race
+https://taifood-blog.asia/embed/f1/2026/qatar/race
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",Fox League
 https://taifood-blog.asia/embed/247-fox-league
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cdab425a6142f35617238cfe7a753d18-thumbnail.jpg" group-title="Tennis",Tennis Channel
